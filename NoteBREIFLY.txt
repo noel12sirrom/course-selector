@@ -1,0 +1,5 @@
+-add optional-course_group for courses table for instances like cmp3040 and bio3004
+
+-figure out to was to relay courses that can be done in the same semester as the prerequisite | and exapmple is cit3009 with cit3002
+
+course cmp1020 & res3001 data needs to be properly filled AS its not shown on diets sheets but they are optional prerequisites
